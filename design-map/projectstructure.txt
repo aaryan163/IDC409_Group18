@@ -1,0 +1,59 @@
+1. Introduction
+   └── Problem statement
+   └── Objective
+
+2. Dataset
+   └── Data source
+   └── Feature description
+   └── Target variable
+
+3. Data Cleaning
+   └── Missing values
+   └── Duplicate records
+   └── Incorrect data types
+   └── Outlier detection
+   └── Final cleaned dataset
+
+4. Exploratory Data Analysis
+   └── Price distribution
+   └── Area vs price
+   └── Location analysis
+   └── Price/sq.ft.
+   └── Correlation
+
+5. Data Preprocessing
+   └── Train/test split
+   └── Numerical preprocessing
+   └── Categorical encoding
+   └── Scaling
+
+6. Machine Learning
+   └── Mean baseline
+   └── Median baseline
+   └── Linear Regression
+   └── Ridge/Lasso
+   └── Decision Tree
+   └── Random Forest
+
+7. Model Evaluation
+   └── MAE
+   └── RMSE
+   └── R²
+   └── Percentage error
+
+8. Feature Analysis
+   └── Correlation
+   └── Feature importance
+
+9. Prediction System
+   └── New-house prediction function
+
+10. Results and Discussion
+    └── Model comparison
+    └── Error analysis
+    └── Limitations
+
+11. Extension
+    └── City-wise models OR classification
+
+12. Conclusion
