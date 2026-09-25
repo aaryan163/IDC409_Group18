@@ -1,0 +1,42 @@
+House-price dataset
+       ↓
+1. Data understanding
+       ↓
+2. Data cleaning
+   ├── Missing values
+   ├── Duplicate rows
+   ├── Wrong data types
+   └── Outliers
+       ↓
+3. Exploratory Data Analysis (EDA)
+   ├── Price distribution
+   ├── Area vs price
+   ├── Location vs price
+   ├── Price per sq. ft.
+   └── Correlations
+       ↓
+4. Data preprocessing
+   ├── Categorical encoding
+   ├── Train/test split
+   └── Feature scaling where appropriate
+       ↓
+5. Feature analysis/reduction
+   ├── Correlation
+   └── Feature importance
+       ↓
+6. Regression models
+   ├── Mean/median baseline
+   ├── Linear Regression
+   ├── Ridge/Lasso
+   ├── Decision Tree
+   └── Random Forest
+       ↓
+7. Evaluation
+   ├── MAE
+   ├── RMSE
+   ├── R²
+   └── Percentage error
+       ↓
+8. Prediction function
+       ↓
+9. Extension
