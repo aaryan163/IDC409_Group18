@@ -1,0 +1,12 @@
+name: idc409
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - ipykernel
+  - pandas
+  - jupyter
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - notebook
