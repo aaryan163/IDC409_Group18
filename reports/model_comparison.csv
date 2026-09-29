@@ -1,0 +1,6 @@
+Model,MAE,RMSE,R²
+Baseline (mean),"$62,576","$87,619",-0.0009
+Ridge Regression,"$19,332","$37,400",0.8176
+Lasso Regression,"$19,346","$44,984",0.7362
+Decision Tree (depth=8),"$27,331","$43,370",0.7548
+Random Forest (100 trees),"$17,573","$28,814",0.8918
